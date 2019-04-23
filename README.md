@@ -1,8 +1,8 @@
-
+## 代码目录
 ```
 |---- config.py                              # 工程参数配置
 |---- ocr_lib                                # 模型、数据生成
-|    |---- crnn.py    
+|    |---- crnn.py                           # 选用不同模型
 |    |---- vgg16.py 
 |    |---- vgg19.py 
 |    |---- Xception.py 
@@ -35,7 +35,7 @@
 
 ## 代码使用
 
-1. OCR模型训练
+1. OCR模型训练 (训练时间24小时以上)
 ```
 $ python train_net_online.py
 ```
@@ -92,8 +92,8 @@ pred>>>>> 捶儿丢覆这抬蔗抢沫肾
 
 
 
-# 为了更快的看到效果，只给了两个颜色：random_gen.py
-# 随机生成背景颜色
+### 为了更快的看到效果，只给了两个颜色：random_gen.py
+### 随机生成背景颜色
 ```python
 def randon_gen_bg_color():
     # 图片背景
@@ -125,6 +125,5 @@ flag = np.random.choice([False]) # True
 # 随机的调整宽高, 以最大长度初始化
 img_size_width = 50 * n_len + 40 + randon_img_width
 ```
-
 
 
