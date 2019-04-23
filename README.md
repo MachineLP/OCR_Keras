@@ -18,6 +18,7 @@
 ```
 
 - 代码是基于keras实现的ocr.
+![image](https://github.com/MachineLP/Shows/blob/master/ocr.png)
 
 
 ## 主要内容包含：
