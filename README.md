@@ -18,7 +18,6 @@
 ```
 
 - 代码是基于keras实现的ocr.
-![image](https://github.com/MachineLP/Shows/blob/master/ocr.png)
 
 
 ## 主要内容包含：
@@ -54,6 +53,7 @@ $ python test_net_online.py
 
 
 测试结果：
+![image](https://github.com/MachineLP/Shows/blob/master/ocr.png)
 ```
 gt>>>>>>> 戒敞古逊罪化综波早洼
 pred>>>>> 戒敞古逊罪化综波早洼
