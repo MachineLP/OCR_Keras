@@ -47,7 +47,3 @@ rnn_size=128
 l2_rate=1e-5
 
 
-
-
-
-
