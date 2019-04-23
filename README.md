@@ -88,7 +88,7 @@ pred>>>>> 捶儿丢覆这抬蔗抢沫肾
 
 ## 联系
 
-如何有问题或者建议请联系wechat: lp9628
+如何有问题或者建议请联系wechat: lp9628    (需要生成接口、.pb模型可联系)
 
 
 
@@ -125,5 +125,4 @@ flag = np.random.choice([False]) # True
 # 随机的调整宽高, 以最大长度初始化
 img_size_width = 50 * n_len + 40 + randon_img_width
 ```
-
 
