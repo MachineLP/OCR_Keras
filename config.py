@@ -19,7 +19,7 @@ height = 32  # 60
 # 制作训练图像的宽
 train_sample_width = 200
 # 池化层数
-pooling_num = 4
+pooling_num = 3
 # 训练的字符长度
 n_len =  12
 # 分类的个数
@@ -28,13 +28,13 @@ n_class = len(alphabet) + 1
 # 训练迭代次数
 train_epochs=2
 # 批训练大小
-batch_size=2
+batch_size=32
 # 学习率
 learning_rate=1e-4
 # 训练迭代次数
-train_num=5000000
+train_num=1000000
 # 验证时迭代次数
-val_num=100000
+val_num=10000
 # 队列读取数据
 num_workers = 12
 # 是否进行fine-tune
