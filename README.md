@@ -35,9 +35,9 @@
 
 ## 代码使用
 
-1. OCR模型训练 (训练时间24小时以上)
+1. OCR模型训练 (训练时间24小时以上,config.py的参数保持默认、或者修改)
 ```
-$ python train_net_online.py
+$ python train_net_online.py 
 ```
 
 2.OCR模型测试
