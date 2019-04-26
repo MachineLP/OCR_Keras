@@ -51,7 +51,7 @@ $ python test_net_online.py
 
 > (2) 文字生成器选用[text_renderer](https://github.com/MachineLP/text_renderer)。
 
-> (3) 还可可参考：[crnn.pytorch](https://github.com/MachineLP/crnn.pytorch)、[chinese_ocr](https://github.com/MachineLP/chinese_ocr)、[awesome-ocr](https://github.com/MachineLP/awesome-ocr)、[PSENet](https://github.com/MachineLP/tensorflow_PSENet)、[keras_ocr](https://github.com/MachineLP/keras_ocr)。
+> (3) 还可可参考：[crnn.pytorch](https://github.com/MachineLP/crnn.pytorch)、[chinese_ocr](https://github.com/MachineLP/chinese_ocr)、[awesome-ocr](https://github.com/MachineLP/awesome-ocr)、[PSENet](https://github.com/MachineLP/tensorflow_PSENet)、[text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)、[keras_ocr](https://github.com/MachineLP/keras_ocr)。
 
 测试结果：
 ![image](https://github.com/MachineLP/Shows/blob/master/ocr.png)
