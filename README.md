@@ -12,9 +12,9 @@
 |    |---- gen_train_val_data.py
 |    |---- random_gen.py
 |    |---- fonts                             # 字体
-|---- train_net_online.py
-|---- test_net_online.py
-|---- requirements.txt
+|---- train_net_online.py 
+|---- test_net_online.py  
+|---- requirements.txt   
 ```
 
 - 代码是基于keras实现的ocr.
@@ -49,8 +49,9 @@ $ python test_net_online.py
 
 > (1) 选用不同的模型cnn、 crnn等。
 
-> (2) 文字生成器选用[text_renderer](https://github.com/MachineLP/text_renderer)
+> (2) 文字生成器选用[text_renderer](https://github.com/MachineLP/text_renderer)。
 
+> (3) 还可可参考：[crnn.pytorch](https://github.com/MachineLP/crnn.pytorch)、[chinese_ocr](https://github.com/MachineLP/chinese_ocr)、[awesome-ocr](https://github.com/MachineLP/awesome-ocr)、[PSENet](https://github.com/MachineLP/tensorflow_PSENet)、[keras_ocr](https://github.com/MachineLP/keras_ocr)。
 
 测试结果：
 ![image](https://github.com/MachineLP/Shows/blob/master/ocr.png)
