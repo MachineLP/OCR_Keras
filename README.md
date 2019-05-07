@@ -53,6 +53,8 @@ $ python test_net_online.py
 
 > (3) 还可可参考：[crnn.pytorch](https://github.com/MachineLP/crnn.pytorch)、[chinese_ocr](https://github.com/MachineLP/chinese_ocr)、[awesome-ocr](https://github.com/MachineLP/awesome-ocr)、[PSENet](https://github.com/MachineLP/tensorflow_PSENet)、[text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)、[keras_ocr](https://github.com/MachineLP/keras_ocr)。
 
+> （4）单字的检测和识别可以参考：[CPS-OCR-Engine](https://github.com/AstarLight/CPS-OCR-Engine)
+
 测试结果：
 ![image](https://github.com/MachineLP/Shows/blob/master/ocr.png)
 ```
