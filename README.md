@@ -51,7 +51,7 @@ $ python test_net_online.py
 
 > (2) 文字生成器选用[text_renderer](https://github.com/MachineLP/text_renderer)。
 
-> (3) 还可可参考：[chineseocr](https://github.com/chineseocr/chineseocr)、[crnn.pytorch](https://github.com/MachineLP/crnn.pytorch)、[chinese_ocr](https://github.com/MachineLP/chinese_ocr)、[awesome-ocr](https://github.com/MachineLP/awesome-ocr)、[PSENet](https://github.com/MachineLP/tensorflow_PSENet)、[text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)、[keras_ocr](https://github.com/MachineLP/keras_ocr)、[keras_PSENet](https://github.com/xiaomaxiao/PSENET)、[ocr_chinese](https://github.com/felixBrave/ocr_chinese)。
+> (3) 还可可参考：[PAN](https://github.com/WenmuZhou/PAN.pytorch)、[crnn.pytorch](https://github.com/MachineLP/crnn.pytorch)、[chineseocr](https://github.com/chineseocr/chineseocr)、[chinese_ocr](https://github.com/MachineLP/chinese_ocr)、[awesome-ocr](https://github.com/MachineLP/awesome-ocr)、[PSENet](https://github.com/MachineLP/tensorflow_PSENet)、[text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn)、[keras_ocr](https://github.com/MachineLP/keras_ocr)、[keras_PSENet](https://github.com/xiaomaxiao/PSENET)、[ocr_chinese](https://github.com/felixBrave/ocr_chinese)。
 
 >（4）单字的检测和识别可以参考：[CPS-OCR-Engine](https://github.com/AstarLight/CPS-OCR-Engine)。
 
